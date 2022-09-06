@@ -14,4 +14,5 @@ Las comisiones a pagar por cada transacción son del
 0.125%
 
 La ponderación indicada para las acciones cuyo símbolo de cotización es: KOFL.MX, KOFUBL.MX, BSMXB.MX y NMKA.MX, y la ponderación indicada para las divisas (peso o dólar); son consideradas como efectivo.
+
 No se permiten las posiciones cortas.
